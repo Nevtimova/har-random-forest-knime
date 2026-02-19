@@ -65,7 +65,6 @@ The KNIME workflow performs the following steps:
 - `Human_Activity_Recognition.knwf` – KNIME workflow file
 - `README.md` – project documentation
 - `LICENSE` – MIT License
-- `Human_Activity_Recognition.zip` – exported workflow (if provided)
 
 ---
 
