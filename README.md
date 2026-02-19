@@ -62,8 +62,10 @@ The KNIME workflow performs the following steps:
 
 ## Repository Contents
 
-- `Human_Activity_Recognition.knwf` – KNIME workflow file
+- `workflow.knime` – KNIME workflow file
 - `README.md` – project documentation
+- `results.png`- results from Scorer
+- `workflow.svg`- workflow diagram
 - `LICENSE` – MIT License
 
 ---
